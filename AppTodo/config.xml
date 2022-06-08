@@ -6,6 +6,7 @@
         Apache Cordova Team
     </author>
     <icon src="res/icon.png" />
+    <content src="index.html" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
 </widget>
